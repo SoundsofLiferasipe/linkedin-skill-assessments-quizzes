@@ -20,7 +20,7 @@ Can view when I'm busy. https://support.microsoft.com/en-us/office/share-an-outl
 
 - [ ] Click New Items > New Appointment.
 - [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
-- [ ] with the email open, click Meeting on the Home ribbon or Message tab.
+- [x] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
@@ -40,7 +40,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] A and C
 - [ ] B and C
-- [ ] A and B
+- [x] A and B
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
